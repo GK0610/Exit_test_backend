@@ -8,7 +8,7 @@
   },
   "name": "backend",
   "version": "1.0.0",
-  "main": "server.app.js", // Update this line to match your main server file name
+  "main": "app.js", // Update this line to match your main server file name
   "scripts": {
     "start": "node app.js" // Update this line to match your main server file name
   },
