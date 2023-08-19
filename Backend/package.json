@@ -8,9 +8,10 @@
   },
   "name": "backend",
   "version": "1.0.0",
-  "main": "app.js", // Update this line to match your main server file name
+  "main": "index.js",
+  "devDependencies": {},
   "scripts": {
-    "start": "node app.js" // Update this line to match your main server file name
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "GK",
   "license": "ISC",
