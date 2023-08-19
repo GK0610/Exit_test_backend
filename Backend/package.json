@@ -8,10 +8,9 @@
   },
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
+  "main": "app.js", // Update this line to match your main server file name
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js" // Update this line to match your main server file name
   },
   "author": "GK",
   "license": "ISC",
